@@ -12,6 +12,3 @@
 
 You can contribute to this project by building simple web apps which mimic the window's applications.
 
-<h2>🛡️ License:</h2>
-
-This project is licensed under the
